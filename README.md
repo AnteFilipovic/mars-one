@@ -1,2 +1,2 @@
 # mars-one
-Domaći rad
+Domaći rad git-hub
